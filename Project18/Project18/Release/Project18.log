@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_winmain.obj) : error LNK2001: неразрешенный внешний символ _WinMain@16.
+C:\Users\volog\source\repos\Project18\Release\Project18.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
